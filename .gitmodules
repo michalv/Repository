@@ -1,3 +1,3 @@
 [submodule "test1"]
 	path = test1
-	url = c:/Users/Valovic/Documents/GitHub/test1/
+	url = git://github.com/michalv/test1.git
