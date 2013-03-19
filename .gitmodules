@@ -8,3 +8,6 @@
 [submodule "testovaci"]
 	path = testovaci
 	url = git://github.com/michalv/testovaci.git
+[submodule "lua"]
+	path = lua
+	url = c:/Users/Valovic/Documents/GitHub/lua
