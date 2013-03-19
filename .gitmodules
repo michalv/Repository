@@ -6,4 +6,5 @@
 	url = git://github.com/michalv/test2.git
 [submodule "test3"]
 	path = test3
-	url = c:/Users/Valovic/Documents/GitHub/test3
+	url = git://github.com/michalv/test3.git
+
