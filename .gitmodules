@@ -12,3 +12,6 @@
 	path = lua
 	url = git://github.com/michalv/lua.git
 
+[submodule "luafilesystem"]
+	path = luafilesystem
+	url = git://github.com/michalv/luafilesystem.git
