@@ -21,3 +21,6 @@
 [submodule "lut"]
 	path = lut
 	url = git://github.com/michalv/lut.git
+[submodule "lub"]
+	path = lub
+	url = git://github.com/michalv/lub.git
