@@ -15,3 +15,6 @@
 [submodule "luafilesystem"]
 	path = luafilesystem
 	url = git://github.com/michalv/luafilesystem.git
+[submodule "luasocket"]
+	path = luasocket
+	url = git://github.com/michalv/luasocket.git
