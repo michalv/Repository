@@ -26,4 +26,4 @@
 	url = git://github.com/michalv/lub.git
 [submodule "test4"]
 	path = test4
-	url = https://github.com/michalv/test4.git
+	url = git://github.com/michalv/test4.git
