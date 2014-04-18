@@ -26,6 +26,9 @@
 	url = git://github.com/michalv/lub.git[submodule "test4"]
 	path = test4
 	url = git://github.com/michalv/test4.git
+<<<<<<< HEAD
 [submodule "test5"]
 	path = test5
 	url = git://github.com/michalv/test5.git
+=======
+>>>>>>> c554519e5b777e4a00a92b24daca101abf7fa985
