@@ -28,3 +28,6 @@
 [submodule "test5"]
 	path = test5
 	url = git://github.com/michalv/test5.git
+[submodule "luadist-git"]
+	path = luadist-git
+	url = git://github.com/michalv/luadist-git.git
