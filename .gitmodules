@@ -38,3 +38,6 @@
 [submodule "lua-git"]
 	path = lua-git
 	url = git://github.com/Luadist/lua-git.git
+[submodule "zlib"]
+	path = zlib
+	url = git://github.com/Luadist/zlib.git
