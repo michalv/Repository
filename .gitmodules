@@ -32,3 +32,6 @@
 	path = luadist-git
 	url = git://github.com/michalv/luadist-git.git
 	branch = update-func
+[submodule "srlua"]
+	path = srlua
+	url = git://github.com/michalv/srlua.git
