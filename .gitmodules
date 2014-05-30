@@ -31,3 +31,4 @@
 [submodule "luadist-git"]
 	path = luadist-git
 	url = git://github.com/michalv/luadist-git.git
+	branch = update-func
