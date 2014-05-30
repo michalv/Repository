@@ -35,3 +35,6 @@
 [submodule "srlua"]
 	path = srlua
 	url = git://github.com/michalv/srlua.git
+[submodule "lua-git"]
+	path = lua-git
+	url = git://github.com/Luadist/lua-git.git
